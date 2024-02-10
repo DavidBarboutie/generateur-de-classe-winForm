@@ -1,0 +1,32 @@
+C:\Users\d.barboutie\source\repos\generateur de classe winForm\generateur de classe winForm\bin\Debug\net8.0-windows\generateur de classe winForm.exe
+C:\Users\d.barboutie\source\repos\generateur de classe winForm\generateur de classe winForm\bin\Debug\net8.0-windows\generateur de classe winForm.deps.json
+C:\Users\d.barboutie\source\repos\generateur de classe winForm\generateur de classe winForm\bin\Debug\net8.0-windows\generateur de classe winForm.runtimeconfig.json
+C:\Users\d.barboutie\source\repos\generateur de classe winForm\generateur de classe winForm\bin\Debug\net8.0-windows\generateur de classe winForm.dll
+C:\Users\d.barboutie\source\repos\generateur de classe winForm\generateur de classe winForm\bin\Debug\net8.0-windows\generateur de classe winForm.pdb
+C:\Users\d.barboutie\source\repos\generateur de classe winForm\generateur de classe winForm\obj\Debug\net8.0-windows\generateur_de_classe_winForm.Form1.resources
+C:\Users\d.barboutie\source\repos\generateur de classe winForm\generateur de classe winForm\obj\Debug\net8.0-windows\generateur de classe winForm.csproj.GenerateResource.cache
+C:\Users\d.barboutie\source\repos\generateur de classe winForm\generateur de classe winForm\obj\Debug\net8.0-windows\generateur de classe winForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.barboutie\source\repos\generateur de classe winForm\generateur de classe winForm\obj\Debug\net8.0-windows\generateur de classe winForm.AssemblyInfoInputs.cache
+C:\Users\d.barboutie\source\repos\generateur de classe winForm\generateur de classe winForm\obj\Debug\net8.0-windows\generateur de classe winForm.AssemblyInfo.cs
+C:\Users\d.barboutie\source\repos\generateur de classe winForm\generateur de classe winForm\obj\Debug\net8.0-windows\generateur de classe winForm.csproj.CoreCompileInputs.cache
+C:\Users\d.barboutie\source\repos\generateur de classe winForm\generateur de classe winForm\obj\Debug\net8.0-windows\generateur de classe winForm.dll
+C:\Users\d.barboutie\source\repos\generateur de classe winForm\generateur de classe winForm\obj\Debug\net8.0-windows\refint\generateur de classe winForm.dll
+C:\Users\d.barboutie\source\repos\generateur de classe winForm\generateur de classe winForm\obj\Debug\net8.0-windows\generateur de classe winForm.pdb
+C:\Users\d.barboutie\source\repos\generateur de classe winForm\generateur de classe winForm\obj\Debug\net8.0-windows\generateur de classe winForm.genruntimeconfig.cache
+C:\Users\d.barboutie\source\repos\generateur de classe winForm\generateur de classe winForm\obj\Debug\net8.0-windows\ref\generateur de classe winForm.dll
+C:\Users\DAWEED\source\repos\generateur de classe winForm\generateur de classe winForm\bin\Debug\net8.0-windows\generateur de classe winForm.exe
+C:\Users\DAWEED\source\repos\generateur de classe winForm\generateur de classe winForm\bin\Debug\net8.0-windows\generateur de classe winForm.deps.json
+C:\Users\DAWEED\source\repos\generateur de classe winForm\generateur de classe winForm\bin\Debug\net8.0-windows\generateur de classe winForm.runtimeconfig.json
+C:\Users\DAWEED\source\repos\generateur de classe winForm\generateur de classe winForm\bin\Debug\net8.0-windows\generateur de classe winForm.dll
+C:\Users\DAWEED\source\repos\generateur de classe winForm\generateur de classe winForm\bin\Debug\net8.0-windows\generateur de classe winForm.pdb
+C:\Users\DAWEED\source\repos\generateur de classe winForm\generateur de classe winForm\obj\Debug\net8.0-windows\generateur_de_classe_winForm.Form1.resources
+C:\Users\DAWEED\source\repos\generateur de classe winForm\generateur de classe winForm\obj\Debug\net8.0-windows\generateur de classe winForm.csproj.GenerateResource.cache
+C:\Users\DAWEED\source\repos\generateur de classe winForm\generateur de classe winForm\obj\Debug\net8.0-windows\generateur de classe winForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAWEED\source\repos\generateur de classe winForm\generateur de classe winForm\obj\Debug\net8.0-windows\generateur de classe winForm.AssemblyInfoInputs.cache
+C:\Users\DAWEED\source\repos\generateur de classe winForm\generateur de classe winForm\obj\Debug\net8.0-windows\generateur de classe winForm.AssemblyInfo.cs
+C:\Users\DAWEED\source\repos\generateur de classe winForm\generateur de classe winForm\obj\Debug\net8.0-windows\generateur de classe winForm.csproj.CoreCompileInputs.cache
+C:\Users\DAWEED\source\repos\generateur de classe winForm\generateur de classe winForm\obj\Debug\net8.0-windows\generateur de classe winForm.dll
+C:\Users\DAWEED\source\repos\generateur de classe winForm\generateur de classe winForm\obj\Debug\net8.0-windows\refint\generateur de classe winForm.dll
+C:\Users\DAWEED\source\repos\generateur de classe winForm\generateur de classe winForm\obj\Debug\net8.0-windows\generateur de classe winForm.pdb
+C:\Users\DAWEED\source\repos\generateur de classe winForm\generateur de classe winForm\obj\Debug\net8.0-windows\generateur de classe winForm.genruntimeconfig.cache
+C:\Users\DAWEED\source\repos\generateur de classe winForm\generateur de classe winForm\obj\Debug\net8.0-windows\ref\generateur de classe winForm.dll
