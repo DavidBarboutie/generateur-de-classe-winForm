@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("generateur de classe winForm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+494524af87dedad7930ba1a94153b579d98785f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("generateur de classe winForm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("generateur de classe winForm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
